@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pip install python-jose
+pip install PyJWT   
+pip install pydantic[email]
+pip install fastapi_controllers
+pip install python-dateutil    
