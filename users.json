@@ -1,0 +1,11 @@
+[
+    {
+        "id": "02dbf31e-d805-45f0-9f2d-99b240c34f66",
+        "email": "harasow@mail.ru",
+        "hashed_password": "8e1ee1f1771449423d7fc6908f0fdf4f",
+        "name": "Тагир",
+        "surname": "Харасов",
+        "birthdate": "1984-06-08T00:00:00",
+        "gender": "Мужской"
+    }
+]
